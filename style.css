@@ -80,5 +80,6 @@ a.article-title:hover {
 }
 
 .nav-link-selected {
-  background-color: #17a2b8;
+  color: white;
+  background-color: #6f8595;
 }
